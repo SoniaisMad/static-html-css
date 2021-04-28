@@ -1,0 +1,24 @@
+{
+  "name": "static-html-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoniaisMad/static-html-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoniaisMad/static-html-css/issues"
+  },
+  "homepage": "https://github.com/SoniaisMad/static-html-css#readme",
+  "dependencies": {
+    "@aws-cdk/aws-s3": "^1.101.0",
+    "@aws-cdk/aws-s3-deployment": "^1.101.0"
+  }
+}
